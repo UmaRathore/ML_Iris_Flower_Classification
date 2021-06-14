@@ -4,6 +4,7 @@
 
 Problem statement: classifying Iris flower species from its features.
 
+![virginica](https://user-images.githubusercontent.com/75840912/121959262-8c401180-cd32-11eb-83d4-ab75816ec0b4.png)
 
 
 Iris features: Sepal, Petal, lengths, and widths
